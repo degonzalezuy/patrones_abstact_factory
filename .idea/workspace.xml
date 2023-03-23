@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92e5f77e-1cb8-4489-acaf-9e088a38118c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/impl/IServiceStackAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/impl/ServiceStackAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/rest/EmployeeServiceRestImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/rest/ProductServiceRestImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/rest/RestServiceStackImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/service/IEmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/service/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/util/PropertiesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ws/EmployeeServiceWSImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ws/ProductServiceWSImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ws/WSServiceStackImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/AbstractFactoryConfiguration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
