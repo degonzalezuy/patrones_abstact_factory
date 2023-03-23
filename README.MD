@@ -16,11 +16,15 @@ creación individual de objetos.
 ![img_2.png](imgs/img_2.png)
 
 # Cuándo utilizarlo:
- Cuando la creación directa de un objeto por medio del operador new
+
+- Cuando la creación directa de un objeto por medio del operador new
 puede ser perjudicial.
- Cuando no se conoce en tiempo de diseño, la familia de clases que se
+
+- Cuando no se conoce en tiempo de diseño, la familia de clases que se
 utilizará en ejecución.
- Cuando es necesario controlar la creación de objetos por medio de una
+
+- Cuando es necesario controlar la creación de objetos por medio de una
 interface común.
- Cuando es necesario trabajar con distintas plataformas, manteniendo la
+
+- Cuando es necesario trabajar con distintas plataformas, manteniendo la
 misma estructura y compatibilidad con todas ellas.
