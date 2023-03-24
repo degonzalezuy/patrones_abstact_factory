@@ -28,3 +28,30 @@ interface común.
 
 - Cuando es necesario trabajar con distintas plataformas, manteniendo la
 misma estructura y compatibilidad con todas ellas.
+
+# Escenario
+Existen ocasiones donde nuestra aplicación necesita soporte para conectarse al
+BackEnd mediante dos estrategias. Esto es utilizado cuando queremos darle la
+oportunidad a nuestros clientes que eligen qué tipo de conexión les parece mejor;
+por ejemplo, podemos crear una aplicación que se comunique al sistema BackEnd
+mediante servicios SOA o RestFul, no obstante, será el cliente quien tome esta
+decisión, por lo que nuestro sistema debe estar preparado para soportar esta
+Arquitectura.
+
+![img.png](imgs/img_3.png)
+
+# Solución
+
+Haremos uso del patrón de diseño Abstract
+Factory. Como ya vimos, este patrón nos permite crear familias de clases que
+cumplan la misma funcionalidad pero con implementación diferente. Por lo cual,
+crearemos una interface para cada servicio que nos proporcione el sistema
+BackEnd, estas interfaces representarán de forma abstracta los servicios que
+tendremos disponibles.
+
+Tendremos que crear una implementación para WebService y RestFul con el objetivo de tener
+la funcionalidad implementada para cada familia.
+
+![img.png](imgs/img_4.png)
+
+
